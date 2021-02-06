@@ -21,7 +21,7 @@ Essa é a minha solução para um exercício do curso de HTML e CSS da B7Web, O 
 ---
 
 <h3 align="center">
-    <a href="https://grazziotti.github.io/tribute-page_coldzera/">Acessar a página</a>
+    <a href="https://grazziotti.github.io/Tribute-Page_Coldzera/">Acessar a página</a>
 </h3>
 
 
